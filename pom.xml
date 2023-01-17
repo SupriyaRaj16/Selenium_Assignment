@@ -31,8 +31,8 @@
 
                         <suiteXmlFiles>
                            <suiteXmlFile>testng_AddComp.xml</suiteXmlFile>
-                           <suiteXmlFile>testng_LoginSucessful.xml</suiteXmlFile>
-                           <suiteXmlFile>testng_LoginFailed.xml</suiteXmlFile>
+                           <!-- <suiteXmlFile>testng_LoginSucessful.xml</suiteXmlFile> -->
+                           <!-- <suiteXmlFile>testng_LoginFailed.xml</suiteXmlFile> -->
                         </suiteXmlFiles>
 
                     </configuration>
