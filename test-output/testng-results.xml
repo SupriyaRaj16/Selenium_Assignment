@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39284" started-at="2023-01-17T19:38:52Z" finished-at="2023-01-17T19:39:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39284" started-at="2023-01-17T19:38:52Z" finished-at="2023-01-17T19:39:32Z">
+      <class name="TestScreens.TC_02_LoginFailed">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:TestScreens.TC_02_LoginFailed@7085bdee]" name="launchApp" is-config="true" duration-ms="16140" started-at="2023-01-18T01:08:52Z" finished-at="2023-01-18T01:09:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="verifyAppLicationTitle()[pri:1, instance:TestScreens.TC_02_LoginFailed@7085bdee]" name="verifyAppLicationTitle" duration-ms="65" started-at="2023-01-18T01:09:08Z" finished-at="2023-01-18T01:09:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAppLicationTitle -->
+        <test-method status="PASS" signature="TC_02_loginNegative()[pri:2, instance:TestScreens.TC_02_LoginFailed@7085bdee]" name="TC_02_loginNegative" duration-ms="15709" started-at="2023-01-18T01:09:09Z" finished-at="2023-01-18T01:09:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02_loginNegative -->
+        <test-method status="PASS" signature="closingApp()[pri:0, instance:TestScreens.TC_02_LoginFailed@7085bdee]" name="closingApp" is-config="true" duration-ms="7280" started-at="2023-01-18T01:09:24Z" finished-at="2023-01-18T01:09:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingApp -->
+      </class> <!-- TestScreens.TC_02_LoginFailed -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

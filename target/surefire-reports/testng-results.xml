@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20748" started-at="2023-01-18T01:23:46 IST" finished-at="2023-01-18T01:24:06 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20748" started-at="2023-01-18T01:23:46 IST" finished-at="2023-01-18T01:24:06 IST">
+      <class name="CompTestScreen.TC_01_AddComp">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:CompTestScreen.TC_01_AddComp@34cd072c]" name="launchApp" is-config="true" duration-ms="5953" started-at="2023-01-18T01:23:46 IST" finished-at="2023-01-18T01:23:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="verifyAppLicationTitle()[pri:1, instance:CompTestScreen.TC_01_AddComp@34cd072c]" name="verifyAppLicationTitle" duration-ms="128" started-at="2023-01-18T01:23:52 IST" finished-at="2023-01-18T01:23:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAppLicationTitle -->
+        <test-method status="PASS" signature="CheckAddCompElements()[pri:2, instance:CompTestScreen.TC_01_AddComp@34cd072c]" name="CheckAddCompElements" duration-ms="2532" started-at="2023-01-18T01:23:52 IST" finished-at="2023-01-18T01:23:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckAddCompElements -->
+        <test-method status="PASS" signature="AddNewComp()[pri:3, instance:CompTestScreen.TC_01_AddComp@34cd072c]" name="AddNewComp" duration-ms="8759" started-at="2023-01-18T01:23:54 IST" finished-at="2023-01-18T01:24:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNewComp -->
+        <test-method status="PASS" signature="closingApp()[pri:0, instance:CompTestScreen.TC_01_AddComp@34cd072c]" name="closingApp" is-config="true" duration-ms="3293" started-at="2023-01-18T01:24:03 IST" finished-at="2023-01-18T01:24:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingApp -->
+      </class> <!-- CompTestScreen.TC_01_AddComp -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
